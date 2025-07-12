@@ -18,7 +18,7 @@ body {
 
 /* ヘッダー */
 header {
-    background: #333;
+    background: #c0392b; /* Dark Red */
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -36,7 +36,7 @@ main section {
 }
 
 #hero {
-    background: #4a90e2;
+    background: #e74c3c; /* Bright Red */
     color: white;
     text-align: center;
 }
@@ -50,8 +50,8 @@ main section {
     display: inline-block;
     padding: 15px 30px;
     margin-top: 20px;
-    background: #50e3c2;
-    color: #333;
+    background: #e67e22; /* Orange/Red */
+    color: #fff;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
@@ -60,7 +60,7 @@ main section {
 }
 
 .cta-button:hover {
-    background: #48d1b3;
+    background: #d35400; /* Darker Orange/Red */
 }
 
 .discord-button {
@@ -91,7 +91,7 @@ main section {
 
 /* CTAセクション */
 #cta {
-    background: #333;
+    background: #c0392b; /* Dark Red */
     color: #fff;
     text-align: center;
 }
